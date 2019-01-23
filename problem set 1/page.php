@@ -74,26 +74,26 @@
 		<h3>OUR LATEST WORK</h3>
 		<div class="mt"></div>
 		<div class="col-lg-4">
-			<a href="#"><img src="img/01.jpg" alt=""></a>
+			<a href="#"><img src="<?php bloginfo("template_url") ?>/img/01.jpg" alt=""></a>
 		</div>
 		<div class="col-lg-4">
-			<a href="#"><img src="img/02.jpg" alt=""></a>
+			<a href="#"><img src="<?php bloginfo("template_url") ?>/img/02.jpg" alt=""></a>
 		</div>
 		<div class="col-lg-4">
-			<a href="#"><img src="img/03.jpg" alt=""></a>
+			<a href="#"><img src="<?php bloginfo("template_url") ?>/img/03.jpg" alt=""></a>
 		</div>
 	</div>
 
 	<div class="row centered mt grid">
 		<div class="mt"></div>
 		<div class="col-lg-4">
-			<a href="#"><img src="img/04.jpg" alt=""></a>
+			<a href="#"><img src="<?php bloginfo("template_url") ?>/img/04.jpg" alt=""></a>
 		</div>
 		<div class="col-lg-4">
-			<a href="#"><img src="img/05.jpg" alt=""></a>
+			<a href="#"><img src="<?php bloginfo("template_url") ?>/img/05.jpg" alt=""></a>
 		</div>
 		<div class="col-lg-4">
-			<a href="#"><img src="img/06.jpg" alt=""></a>
+			<a href="#"><img src="<?php bloginfo("template_url") ?>/img/06.jpg" alt=""></a>
 		</div>
 	</div>
 
